@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../summary"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Service web"
+	}
+}
